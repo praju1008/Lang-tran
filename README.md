@@ -4,15 +4,7 @@ A modern web-based language translation tool built with HTML, CSS, and JavaScrip
 
 
 
-## Table of Contents
-* [Overview](#overview)
-* [Features](#features)
-* [Technologies Used](#technologies-used)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+
 
 ## Overview
 This project provides a user-friendly interface for translating text between multiple languages. It leverages the Google Translate API to deliver accurate translations while maintaining a clean, intuitive user experience.
